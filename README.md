@@ -22,6 +22,4 @@ Codecademy provided the data under the name **nba_games.csv** and contains the f
 ## Data Analysis
 I have thoroughly examined the dataframe and can confirm that no missing data was detected.
 I calculated the difference between the average points scored by the Knicks and the Nets teams in 2010, below is a graphical representation of the information
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-https://github.com/JuanPoumian/NBA/edit/main/README.md
-![alt text](https://github.com/JuanPoumian/NBA/edit/main/README.md/2010season.png "2010 season")
+![2010season](https://user-images.githubusercontent.com/114705723/221718825-2b541f63-8e19-462a-ab63-8b820cc7f7b6.png)
