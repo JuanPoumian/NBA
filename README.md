@@ -1,4 +1,8 @@
 # Data Science NBA Trends: Project Overview
+
+![NBA-logo-png-download-free-1200x675](https://user-images.githubusercontent.com/114705723/221735255-75c1e737-8a77-4745-9243-a35ce902ca35.png)
+
+
 I analyzed data from the NBA (National Basketball Association) and explored possible associations.
 
 ## Data
