@@ -1,5 +1,5 @@
 # Data Science NBA Trends: Project Overview
-* I analyzed data from the NBA (National Basketball Association) and explored possible associations.
+I analyzed data from the NBA (National Basketball Association) and explored possible associations.
 
 ## Resources Used
 **Python Version:** 3.9  
@@ -19,7 +19,7 @@ Codecademy provided the data under the name **nba_games.csv** and contains the f
 * **forecast** - Elo-based chances of winning for the team in the team_id column, based on elo ratings and game location
 * **point_diff** - the difference between pts and opp_pts
 
-## Data Analysis
+## EDA
 I have thoroughly examined the dataframe and can confirm that no missing data was detected.
 
 Then I calculated the difference between the average points scored by the Knicks and the Nets teams in 2010, below is a graphical representation of the information.
@@ -32,3 +32,9 @@ I also calculated the difference between the average points scored by the Knicks
 
 
 ![2014season](https://user-images.githubusercontent.com/114705723/221719873-beac0a59-e725-43d8-a53d-59ba483d371c.png)
+
+## Analyzing data from the year 2010 exclusively
+finding relationship between franchise and points scored per game, Below is a graphical representation of this information.
+
+
+![2010boxplot](https://user-images.githubusercontent.com/114705723/221721264-c204818d-0704-454a-9f62-f7c6b8cf78a1.png)
