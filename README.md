@@ -22,8 +22,9 @@ Codecademy provided the data under the name **nba_games.csv** and contains the f
 **Python Version:** 3.9  
 **Packages:** pandas, numpy, matplotlib, seaborn, scipy.stats
 
-## In the file `EDA~NBA.ipynb`
-In this section I explored the data and have thoroughly examined the dataframe. I can confirm that no missing data was detected.
+## EDA
+The EDA.ipynb file in the repository was responsible for conducting exploratory data analysis on the dataset.
+I can confirm that no missing data was detected.
 
-## In the file `2010~NBA.ipynb`
-For this analysis, I exclusively focused on the data from the 2010 dataframe, with the aim of gaining a comprehensive and detailed understanding of the specific trends and patterns of that particular year.
+## 2010
+The 2010.ipynb in the repository exclusively analyzes the data from the 2010 dataframe, providing insights and observations specific to that year.
