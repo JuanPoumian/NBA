@@ -23,8 +23,8 @@ Codecademy provided the data under the name **nba_games.csv** and contains the f
 **Packages:** pandas, numpy, matplotlib, seaborn, scipy.stats
 
 ## EDA
-The EDA.ipynb file in the repository was responsible for conducting exploratory data analysis on the dataset.
+The `EDA.ipynb` file in the repository was responsible for conducting exploratory data analysis on the dataset.
 I can confirm that no missing data was detected.
 
 ## 2010
-The 2010.ipynb in the repository exclusively analyzes the data from the 2010 dataframe, providing insights and observations specific to that year.
+The `2010.ipynb` in the repository exclusively analyzes the data from the 2010 dataframe, providing insights and observations specific to that year.
