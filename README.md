@@ -22,7 +22,7 @@ Codecademy provided the data under the name **nba_games.csv** and contains the f
 **Python Version:** 3.9  
 **Packages:** pandas, numpy, matplotlib, seaborn, scipy.stats
 
-## EDA / In the section `EDA~NBA.ipynb`
+## In the file `EDA~NBA.ipynb`
 EDA In the section (in this file)
 I explored the data and have thoroughly examined the dataframe. I can confirm that no missing data was detected.
 
