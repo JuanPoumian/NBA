@@ -19,7 +19,7 @@ Codecademy provided the data under the name **nba_games.csv** and contains the f
 * **forecast** - Elo-based chances of winning for the team in the team_id column, based on elo ratings and game location
 * **point_diff** - the difference between pts and opp_pts
 
-## EDA
+## EDA - en esta section explore los datos
 I have thoroughly examined the dataframe and can confirm that no missing data was detected.
 
 Then I calculated the difference between the average points scored by the Knicks and the Nets teams in 2010, below is a graphical representation of the information.
@@ -37,3 +37,5 @@ I also calculated the difference between the average points scored by the Knicks
 finding relationship between franchise and points scored per game, Below is a graphical representation of this information.
 
 ![2010boxplot](https://user-images.githubusercontent.com/114705723/221721264-c204818d-0704-454a-9f62-f7c6b8cf78a1.png)
+
+There's a relationship between the game result and the game location? 
