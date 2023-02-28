@@ -36,5 +36,4 @@ I also calculated the difference between the average points scored by the Knicks
 ## Analyzing data from the year 2010 exclusively
 finding relationship between franchise and points scored per game, Below is a graphical representation of this information.
 
-
 ![2010boxplot](https://user-images.githubusercontent.com/114705723/221721264-c204818d-0704-454a-9f62-f7c6b8cf78a1.png)
